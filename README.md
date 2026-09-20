@@ -61,11 +61,11 @@ Below is the live **VeriText Round 4 Interface** demonstrating stable cross-them
 ### Production Interface Walkthrough Dashboard
 *This dashboard showcases real-time probability tracking, extracted signatures, and high-contrast token mapping:*
 
-```markdown
+
 ![VeriText Dashboard Layout](https://githubusercontent.com)
 <img width="1250" height="596" alt="image" src="https://github.com/user-attachments/assets/04090dfa-6da3-496f-a600-d9eccc67c7d5" />
 
-```
+
 *(Note: To display your uploaded image directly on the GitHub home page, save your screenshot as `veritext_dashboard.png`, place it in your local folder, and push it up alongside the code using the terminal steps below.)*
 
 ---
